@@ -1,0 +1,17 @@
+.App {
+  margin: 16px;
+}
+.displayBlock{
+  display: inline-block;
+  padding: 16px;
+  text-align: center; 
+  margin: 16px;
+  border: 1px solid black;
+  background-color: bisque
+}
+.h1Color{
+  color: cornflowerblue
+}
+a:hover{
+  cursor: pointer;
+}
